@@ -21,4 +21,4 @@ This project serves as a learning experience to explore real-world applications 
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries or contributions, feel free to reach out at [your email or GitHub link].
+For any inquiries or contributions, feel free to reach out at [shabrijal@gmail.com].
