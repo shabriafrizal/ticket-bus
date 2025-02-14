@@ -1,0 +1,12 @@
+#624e8c main1
+#e3e3f4 secondary1
+#f6f7fb back1
+
+#f3f5f8 white1
+#624e8c purple1
+#a698e8 purplelight1
+
+#f36f80 red1
+#fed06f yellow1
+#f8920b darkOrange
+#dc143c crimson

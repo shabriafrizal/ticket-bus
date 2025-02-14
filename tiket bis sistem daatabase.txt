@@ -1,0 +1,18 @@
+Tiket Bis
+
+database
+
+passenger -> id, name, address, birthday, gender, phone
+
+staff -> id, name, username, password, id_level
+
+Level -> id, name
+1 (Admin), 2 (staff)
+Admin bisa menggunakan semua fitur
+staff hanya bisa mengubah status bis, membuat booking (tabel booking)
+
+booking -> id, code_booking, date_booking, id_passenger, id_staff, id_bus, date_departure, date_arrive
+
+route -> id, name, id_city_origin, id_city_destination, price, class
+
+bus -> id, code_bus, type, plate, id_route, status

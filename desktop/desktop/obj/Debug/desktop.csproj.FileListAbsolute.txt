@@ -1,0 +1,112 @@
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\bin\Debug\desktop.exe.config
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\bin\Debug\desktop.exe
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\bin\Debug\desktop.pdb
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.csproj.AssemblyReference.cache
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.Properties.Resources.resources
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.csproj.GenerateResource.cache
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.csproj.CoreCompileInputs.cache
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.exe
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.pdb
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormMain.resources
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormDashboard.resources
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPassenger.resources
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBus.resources
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPassengerCreate.resources
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPassengerDetail.resources
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBusCreate.resources
+D:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBusDetail.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\bin\Debug\desktop.exe.config
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\bin\Debug\desktop.exe
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\bin\Debug\desktop.pdb
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.csproj.AssemblyReference.cache
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBus.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBusCreate.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBusDetail.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormDashboard.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormMain.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPassenger.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPassengerCreate.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPassengerDetail.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.Properties.Resources.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.csproj.GenerateResource.cache
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.csproj.CoreCompileInputs.cache
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.exe
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.pdb
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormRoute.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormRouteCreate.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\bin\Debug\desktop.exe.config
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\bin\Debug\desktop.exe
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\bin\Debug\desktop.pdb
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.csproj.AssemblyReference.cache
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBus.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBusCreate.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBusDetail.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormDashboard.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormMain.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPassenger.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPassengerCreate.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPassengerDetail.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormRoute.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormRouteCreate.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.Properties.Resources.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.csproj.GenerateResource.cache
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.csproj.CoreCompileInputs.cache
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.exe
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.pdb
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormRouteDetail.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormLogin.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormLogin.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormRouteDetail.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBooking.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.UCBus.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBookingPassenger.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPayment.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPaymentMethod.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPaymentShowPaid.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBooking.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBookingPassenger.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPayment.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPaymentMethod.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPaymentShowPaid.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.UCBus.resources
+E:\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBookingStatus.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBookingStatus.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.UC_DashboardBooking.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormDashboardPassenger.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormDashboardBooking.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormDashboardBus.resources
+C:\Users\Shab\Documents\TC UBIG\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormDashboardRoute.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\bin\Debug\desktop.exe.config
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\bin\Debug\desktop.exe
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\bin\Debug\desktop.pdb
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.csproj.AssemblyReference.cache
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBooking.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBookingPassenger.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBookingStatus.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBus.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBusCreate.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormBusDetail.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormDashboard.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormDashboardBooking.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormDashboardBus.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormDashboardPassenger.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormDashboardRoute.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormLogin.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormMain.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPassenger.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPassengerCreate.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPassengerDetail.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPayment.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPaymentMethod.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormPaymentShowPaid.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormRoute.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormRouteCreate.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.FormRouteDetail.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.Properties.Resources.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.UCBus.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.UC_DashboardBooking.resources
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.csproj.GenerateResource.cache
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.csproj.CoreCompileInputs.cache
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.exe
+C:\Users\Shab\Documents\LKS\Studi Kasus 1 (Tiket Bis)\desktop\desktop\obj\Debug\desktop.pdb
